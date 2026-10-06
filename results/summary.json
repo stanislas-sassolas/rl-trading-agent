@@ -1,0 +1,494 @@
+{
+ "BTC_val": {
+  "PPO seed 0": {
+   "total return": 1.236373537258816,
+   "annual return": 1.2376067249181646,
+   "annual volatility": 0.5159600002440419,
+   "Sharpe": 1.8191171973443458,
+   "max drawdown": -0.32879390650476215,
+   "trades": 31.0,
+   "time invested": 0.9805327868852459,
+   "fees paid (% of capital)": 0.031
+  },
+  "PPO seed 1": {
+   "total return": 1.5080161189351347,
+   "annual return": 1.509596137574221,
+   "annual volatility": 0.43763877845975485,
+   "Sharpe": 2.321364492384411,
+   "max drawdown": -0.32773818345717165,
+   "trades": 72.0,
+   "time invested": 0.7131147540983607,
+   "fees paid (% of capital)": 0.07200000000000001
+  },
+  "PPO seed 2": {
+   "total return": 1.3178115013467315,
+   "annual return": 1.3191464107030408,
+   "annual volatility": 0.5224313192519392,
+   "Sharpe": 1.871507981171445,
+   "max drawdown": -0.30035303809922254,
+   "trades": 25.0,
+   "time invested": 0.9847449908925319,
+   "fees paid (% of capital)": 0.025
+  },
+  "Buy & hold": {
+   "total return": 1.215620067349263,
+   "annual return": 1.2168276547682408,
+   "annual volatility": 0.5310414302685075,
+   "Sharpe": 1.7647776255770553,
+   "max drawdown": -0.32440132189428117,
+   "trades": 1.0,
+   "time invested": 1.0,
+   "fees paid (% of capital)": 0.001
+  },
+  "SMA crossover 24h/7d": {
+   "total return": 0.6395973024916313,
+   "annual return": 0.6401526704840217,
+   "annual volatility": 0.378710971079489,
+   "Sharpe": 1.4959265034689115,
+   "max drawdown": -0.1612558544926116,
+   "trades": 70.0,
+   "time invested": 0.5529371584699454,
+   "fees paid (% of capital)": 0.07
+  },
+  "Random, same turnover": {
+   "total return": 0.38962839843970043,
+   "annual return": 0.3899416106410878,
+   "annual volatility": 0.42189883252166077,
+   "Sharpe": 0.9914727660821068,
+   "max drawdown": -0.291759764600271,
+   "trades": 39.0,
+   "time invested": 0.6384335154826958,
+   "fees paid (% of capital)": 0.039
+  },
+  "Cash": {
+   "total return": 0.0,
+   "annual return": 0.0,
+   "annual volatility": 0.0,
+   "Sharpe": 0.0,
+   "max drawdown": 0.0,
+   "trades": 0.0,
+   "time invested": 0.0,
+   "fees paid (% of capital)": 0.0
+  },
+  "PPO mean of 3 seeds": {
+   "total return": 1.354067052513561,
+   "annual return": 1.3554497577318088,
+   "annual volatility": 0.49201003265191195,
+   "Sharpe": 2.003996556966734,
+   "max drawdown": -0.31896170935371876,
+   "trades": 42.666666666666664,
+   "time invested": 0.8927975106253795,
+   "fees paid (% of capital)": 0.042666666666666665
+  }
+ },
+ "BTC_test": {
+  "PPO seed 0": {
+   "total return": -0.12448546102993341,
+   "annual return": -0.13957875681364174,
+   "annual volatility": 0.42734855906840113,
+   "Sharpe": -0.1379481088834716,
+   "max drawdown": -0.3750851091895385,
+   "trades": 13.0,
+   "time invested": 0.9810688989053445,
+   "fees paid (% of capital)": 0.013000000000000001
+  },
+  "PPO seed 1": {
+   "total return": -0.09090928082017125,
+   "annual return": -0.10217262300383767,
+   "annual volatility": 0.3599805844664704,
+   "Sharpe": -0.11929301627279626,
+   "max drawdown": -0.3460597390885498,
+   "trades": 68.0,
+   "time invested": 0.7451384417256922,
+   "fees paid (% of capital)": 0.068
+  },
+  "PPO seed 2": {
+   "total return": -0.00781017658304517,
+   "annual return": -0.008827264802710677,
+   "annual volatility": 0.43489714831344195,
+   "Sharpe": 0.19717874375930178,
+   "max drawdown": -0.3150379543979117,
+   "trades": 13.0,
+   "time invested": 0.9935608499678042,
+   "fees paid (% of capital)": 0.013000000000000001
+  },
+  "Buy & hold": {
+   "total return": -0.03113213499025891,
+   "annual return": -0.03513203604828974,
+   "annual volatility": 0.4437206163649498,
+   "Sharpe": 0.14131287697833786,
+   "max drawdown": -0.3101541308907316,
+   "trades": 1.0,
+   "time invested": 1.0,
+   "fees paid (% of capital)": 0.001
+  },
+  "SMA crossover 24h/7d": {
+   "total return": -0.12990939455738237,
+   "annual return": -0.1456039850635933,
+   "annual volatility": 0.30056183800393343,
+   "Sharpe": -0.3729551291493594,
+   "max drawdown": -0.3785259654465055,
+   "trades": 76.0,
+   "time invested": 0.5281390856406954,
+   "fees paid (% of capital)": 0.076
+  },
+  "Random, same turnover": {
+   "total return": -0.057881866584943875,
+   "annual return": -0.06520104945176941,
+   "annual volatility": 0.3411745609893328,
+   "Sharpe": -0.02680988428622879,
+   "max drawdown": -0.28087626100998575,
+   "trades": 30.0,
+   "time invested": 0.574243399871217,
+   "fees paid (% of capital)": 0.030000000000000002
+  },
+  "Cash": {
+   "total return": 0.0,
+   "annual return": 0.0,
+   "annual volatility": 0.0,
+   "Sharpe": 0.0,
+   "max drawdown": 0.0,
+   "trades": 0.0,
+   "time invested": 0.0,
+   "fees paid (% of capital)": 0.0
+  },
+  "PPO mean of 3 seeds": {
+   "total return": -0.07440163947771661,
+   "annual return": -0.08352621487339669,
+   "annual volatility": 0.40740876394943787,
+   "Sharpe": -0.02002079379898869,
+   "max drawdown": -0.3453942675586667,
+   "trades": 31.333333333333332,
+   "time invested": 0.9065893968662803,
+   "fees paid (% of capital)": 0.03133333333333333
+  }
+ },
+ "ETH_val": {
+  "PPO seed 0": {
+   "total return": 0.5133746249469944,
+   "annual return": 0.5138041754041727,
+   "annual volatility": 0.5361568761122746,
+   "Sharpe": 1.0409354600006528,
+   "max drawdown": -0.43896241497687816,
+   "trades": 123.0,
+   "time invested": 0.8221766848816029,
+   "fees paid (% of capital)": 0.12300000000000001
+  },
+  "PPO seed 1": {
+   "total return": 0.44720059096206266,
+   "annual return": 0.4475670279578501,
+   "annual volatility": 0.6436135258185909,
+   "Sharpe": 0.8967776192497618,
+   "max drawdown": -0.456299691120555,
+   "trades": 11.0,
+   "time invested": 0.9927140255009107,
+   "fees paid (% of capital)": 0.011
+  },
+  "PPO seed 2": {
+   "total return": 0.5625675243301103,
+   "annual return": 0.5630452831469415,
+   "annual volatility": 0.6233210258280565,
+   "Sharpe": 1.0284842115575668,
+   "max drawdown": -0.4493804619394304,
+   "trades": 9.0,
+   "time invested": 0.9441029143897997,
+   "fees paid (% of capital)": 0.009000000000000001
+  },
+  "Buy & hold": {
+   "total return": 0.4605265446851954,
+   "annual return": 0.4609055274763867,
+   "annual volatility": 0.6458176291621621,
+   "Sharpe": 0.9101194096144907,
+   "max drawdown": -0.4682800803762658,
+   "trades": 1.0,
+   "time invested": 1.0,
+   "fees paid (% of capital)": 0.001
+  },
+  "SMA crossover 24h/7d": {
+   "total return": 0.6402442150391412,
+   "annual return": 0.6408002454835284,
+   "annual volatility": 0.441822543209727,
+   "Sharpe": 1.341150994193797,
+   "max drawdown": -0.2741498808506012,
+   "trades": 76.0,
+   "time invested": 0.5387067395264117,
+   "fees paid (% of capital)": 0.07600000000000001
+  },
+  "Random, same turnover": {
+   "total return": 0.3498158844999,
+   "annual return": 0.3500932430210646,
+   "annual volatility": 0.45494765047314073,
+   "Sharpe": 0.8871480932379588,
+   "max drawdown": -0.33128203236649056,
+   "trades": 45.0,
+   "time invested": 0.4726775956284153,
+   "fees paid (% of capital)": 0.045
+  },
+  "Cash": {
+   "total return": 0.0,
+   "annual return": 0.0,
+   "annual volatility": 0.0,
+   "Sharpe": 0.0,
+   "max drawdown": 0.0,
+   "trades": 0.0,
+   "time invested": 0.0,
+   "fees paid (% of capital)": 0.0
+  },
+  "PPO mean of 3 seeds": {
+   "total return": 0.5077142467463891,
+   "annual return": 0.5081388288363214,
+   "annual volatility": 0.6010304759196406,
+   "Sharpe": 0.9887324302693271,
+   "max drawdown": -0.44821418934562124,
+   "trades": 47.666666666666664,
+   "time invested": 0.919664541590771,
+   "fees paid (% of capital)": 0.04766666666666667
+  }
+ },
+ "ETH_test": {
+  "PPO seed 0": {
+   "total return": 0.021196442231009804,
+   "annual return": 0.03243615659250487,
+   "annual volatility": 0.6270290916283301,
+   "Sharpe": 0.3641040403621422,
+   "max drawdown": -0.5716406714210946,
+   "trades": 95.0,
+   "time invested": 0.7919625844448294,
+   "fees paid (% of capital)": 0.095
+  },
+  "PPO seed 1": {
+   "total return": 0.16098530829098867,
+   "annual return": 0.2550417423263496,
+   "annual volatility": 0.7621282883787143,
+   "Sharpe": 0.6804122034030231,
+   "max drawdown": -0.6277851756892947,
+   "trades": 11.0,
+   "time invested": 0.9864888272994977,
+   "fees paid (% of capital)": 0.011000000000000001
+  },
+  "PPO seed 2": {
+   "total return": 0.6341073740747798,
+   "annual return": 1.111477206685937,
+   "annual volatility": 0.7247083220190226,
+   "Sharpe": 1.3947490434429322,
+   "max drawdown": -0.5746087438077485,
+   "trades": 21.0,
+   "time invested": 0.907673653213234,
+   "fees paid (% of capital)": 0.020999999999999998
+  },
+  "Buy & hold": {
+   "total return": 0.28521049998660253,
+   "annual return": 0.4650255862156738,
+   "annual volatility": 0.7660908033995061,
+   "Sharpe": 0.8827805553692948,
+   "max drawdown": -0.6185823744474181,
+   "trades": 1.0,
+   "time invested": 1.0,
+   "fees paid (% of capital)": 0.001
+  },
+  "SMA crossover 24h/7d": {
+   "total return": -0.11659919814241992,
+   "annual return": -0.17194556925332005,
+   "annual volatility": 0.4961193570634332,
+   "Sharpe": -0.13182233575881983,
+   "max drawdown": -0.5146251581533539,
+   "trades": 66.0,
+   "time invested": 0.5309197990646112,
+   "fees paid (% of capital)": 0.066
+  },
+  "Random, same turnover": {
+   "total return": 0.3038559931893583,
+   "annual return": 0.49749399480181133,
+   "annual volatility": 0.5557822546824488,
+   "Sharpe": 1.0065736087795492,
+   "max drawdown": -0.4453226821711246,
+   "trades": 39.0,
+   "time invested": 0.5922397367053525,
+   "fees paid (% of capital)": 0.03900000000000001
+  },
+  "Cash": {
+   "total return": 0.0,
+   "annual return": 0.0,
+   "annual volatility": 0.0,
+   "Sharpe": 0.0,
+   "max drawdown": 0.0,
+   "trades": 0.0,
+   "time invested": 0.0,
+   "fees paid (% of capital)": 0.0
+  },
+  "PPO mean of 3 seeds": {
+   "total return": 0.27209637486559274,
+   "annual return": 0.4663183685349305,
+   "annual volatility": 0.7046219006753557,
+   "Sharpe": 0.8130884290693658,
+   "max drawdown": -0.5913448636393793,
+   "trades": 42.333333333333336,
+   "time invested": 0.8953750216525204,
+   "fees paid (% of capital)": 0.042333333333333334
+  }
+ },
+ "GOLD_val": {
+  "PPO seed 0": {
+   "total return": 0.23984163766490862,
+   "annual return": 0.5431526878023945,
+   "annual volatility": 0.1353342699372213,
+   "Sharpe": 3.2733862686587365,
+   "max drawdown": -0.07657392072402336,
+   "trades": 19.0,
+   "time invested": 0.9527670074021855,
+   "fees paid (% of capital)": 0.009500000000000001
+  },
+  "PPO seed 1": {
+   "total return": 0.24836733250652654,
+   "annual return": 0.5646409619371708,
+   "annual volatility": 0.13778117099036466,
+   "Sharpe": 3.318059599277018,
+   "max drawdown": -0.0844953461332254,
+   "trades": 29.0,
+   "time invested": 0.9661614381388791,
+   "fees paid (% of capital)": 0.0145
+  },
+  "PPO seed 2": {
+   "total return": 0.22661955341261697,
+   "annual return": 0.5101240492884043,
+   "annual volatility": 0.1379601746522235,
+   "Sharpe": 3.0568522735917165,
+   "max drawdown": -0.07029987146400474,
+   "trades": 19.0,
+   "time invested": 0.9689813182939725,
+   "fees paid (% of capital)": 0.0095
+  },
+  "Buy & hold": {
+   "total return": 0.18895339076151285,
+   "annual return": 0.41801003504792766,
+   "annual volatility": 0.1426630773482959,
+   "Sharpe": 2.5195319223193997,
+   "max drawdown": -0.08999035660677068,
+   "trades": 1.0,
+   "time invested": 1.0,
+   "fees paid (% of capital)": 0.0005
+  },
+  "SMA crossover 24h/7d": {
+   "total return": 0.12311003670251819,
+   "annual return": 0.26400848604014526,
+   "annual volatility": 0.11354010524148837,
+   "Sharpe": 2.120300990702089,
+   "max drawdown": -0.06304792810890947,
+   "trades": 29.0,
+   "time invested": 0.674656327106098,
+   "fees paid (% of capital)": 0.0145
+  },
+  "Random, same turnover": {
+   "total return": 0.04843172669863116,
+   "annual return": 0.10014296090430741,
+   "annual volatility": 0.11639438050660691,
+   "Sharpe": 0.8781894932182839,
+   "max drawdown": -0.061157571754703044,
+   "trades": 21.0,
+   "time invested": 0.6270708494888967,
+   "fees paid (% of capital)": 0.010499999999999999
+  },
+  "Cash": {
+   "total return": 0.0,
+   "annual return": 0.0,
+   "annual volatility": 0.0,
+   "Sharpe": 0.0,
+   "max drawdown": 0.0,
+   "trades": 0.0,
+   "time invested": 0.0,
+   "fees paid (% of capital)": 0.0
+  },
+  "PPO mean of 3 seeds": {
+   "total return": 0.2382761745280174,
+   "annual return": 0.5393058996759899,
+   "annual volatility": 0.13702520519326983,
+   "Sharpe": 3.216099380509157,
+   "max drawdown": -0.0771230461070845,
+   "trades": 22.333333333333332,
+   "time invested": 0.9626365879450124,
+   "fees paid (% of capital)": 0.011166666666666667
+  }
+ },
+ "GOLD_test": {
+  "PPO seed 0": {
+   "total return": 0.20602659799759437,
+   "annual return": 0.33964508380400926,
+   "annual volatility": 0.15806714884076617,
+   "Sharpe": 1.9289025627477745,
+   "max drawdown": -0.07282671863094414,
+   "trades": 108.0,
+   "time invested": 0.6923890063424947,
+   "fees paid (% of capital)": 0.054
+  },
+  "PPO seed 1": {
+   "total return": 0.03238346471548814,
+   "annual return": 0.051004181363321965,
+   "annual volatility": 0.17178974957378113,
+   "Sharpe": 0.37544935558797565,
+   "max drawdown": -0.1078218245895538,
+   "trades": 119.0,
+   "time invested": 0.7481501057082452,
+   "fees paid (% of capital)": 0.0595
+  },
+  "PPO seed 2": {
+   "total return": 0.17148028740120003,
+   "annual return": 0.28023077247255745,
+   "annual volatility": 0.1525555001945971,
+   "Sharpe": 1.6956027320819942,
+   "max drawdown": -0.07179601280024572,
+   "trades": 110.0,
+   "time invested": 0.6707188160676533,
+   "fees paid (% of capital)": 0.05500000000000001
+  },
+  "Buy & hold": {
+   "total return": 0.2848366263528721,
+   "annual return": 0.47876928390109175,
+   "annual volatility": 0.21013181891965052,
+   "Sharpe": 1.9668637398603175,
+   "max drawdown": -0.1097557804711049,
+   "trades": 1.0,
+   "time invested": 1.0,
+   "fees paid (% of capital)": 0.0005
+  },
+  "SMA crossover 24h/7d": {
+   "total return": 0.1660778516365764,
+   "annual return": 0.2710272340942572,
+   "annual volatility": 0.15460676758382627,
+   "Sharpe": 1.6285700072565816,
+   "max drawdown": -0.12105439883851976,
+   "trades": 30.0,
+   "time invested": 0.5843023255813954,
+   "fees paid (% of capital)": 0.015
+  },
+  "Random, same turnover": {
+   "total return": 0.05992711509766413,
+   "annual return": 0.09509865961300568,
+   "annual volatility": 0.13407602557524304,
+   "Sharpe": 0.7445856508020573,
+   "max drawdown": -0.08008207269927514,
+   "trades": 107.0,
+   "time invested": 0.4402748414376321,
+   "fees paid (% of capital)": 0.053500000000000006
+  },
+  "Cash": {
+   "total return": 0.0,
+   "annual return": 0.0,
+   "annual volatility": 0.0,
+   "Sharpe": 0.0,
+   "max drawdown": 0.0,
+   "trades": 0.0,
+   "time invested": 0.0,
+   "fees paid (% of capital)": 0.0
+  },
+  "PPO mean of 3 seeds": {
+   "total return": 0.13663011670476086,
+   "annual return": 0.22362667921329624,
+   "annual volatility": 0.16080413286971482,
+   "Sharpe": 1.3333182168059148,
+   "max drawdown": -0.08414818534024789,
+   "trades": 112.33333333333333,
+   "time invested": 0.7037526427061311,
+   "fees paid (% of capital)": 0.05616666666666666
+  }
+ }
+}

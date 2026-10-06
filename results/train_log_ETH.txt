@@ -1,0 +1,66 @@
+== ETH seed 0
+     50000 steps | val Sharpe +0.13 | return -5.1% | trades  119 | invested 68%
+    100000 steps | val Sharpe +0.57 | return +17.4% | trades   49 | invested 80%
+    150000 steps | val Sharpe +0.75 | return +29.4% | trades   39 | invested 81%
+    200000 steps | val Sharpe +0.71 | return +27.1% | trades   63 | invested 87%
+    250000 steps | val Sharpe +0.85 | return +36.8% | trades   67 | invested 84%
+    300000 steps | val Sharpe +0.76 | return +30.2% | trades   67 | invested 87%
+    350000 steps | val Sharpe +0.92 | return +42.7% | trades   45 | invested 90%
+    400000 steps | val Sharpe +0.51 | return +13.7% | trades   83 | invested 88%
+    450000 steps | val Sharpe +0.57 | return +17.9% | trades  101 | invested 85%
+    500000 steps | val Sharpe +1.04 | return +51.3% | trades  123 | invested 82%
+    550000 steps | val Sharpe +0.15 | return -6.7% | trades  117 | invested 86%
+    600000 steps | val Sharpe -0.04 | return -16.6% | trades  131 | invested 87%
+    650000 steps | val Sharpe -0.01 | return -15.5% | trades  127 | invested 86%
+    700000 steps | val Sharpe -0.03 | return -16.7% | trades  161 | invested 85%
+    750000 steps | val Sharpe -0.01 | return -15.6% | trades  133 | invested 87%
+    800000 steps | val Sharpe +0.05 | return -12.8% | trades  133 | invested 87%
+    850000 steps | val Sharpe +0.16 | return -6.9% | trades  117 | invested 89%
+    900000 steps | val Sharpe +0.31 | return +1.6% | trades  127 | invested 88%
+    950000 steps | val Sharpe +0.41 | return +7.3% | trades  101 | invested 90%
+   1000000 steps | val Sharpe +0.53 | return +15.1% | trades   83 | invested 94%
+   done in 3.1 min, best validation Sharpe 1.04
+== ETH seed 1
+     50000 steps | val Sharpe +0.86 | return +38.8% | trades  227 | invested 83%
+    100000 steps | val Sharpe +0.90 | return +44.7% | trades   11 | invested 99%
+    150000 steps | val Sharpe +0.88 | return +43.3% | trades    3 | invested 100%
+    200000 steps | val Sharpe +0.68 | return +26.2% | trades   13 | invested 99%
+    250000 steps | val Sharpe +0.66 | return +24.6% | trades   19 | invested 99%
+    300000 steps | val Sharpe +0.71 | return +28.3% | trades   23 | invested 99%
+    350000 steps | val Sharpe +0.80 | return +35.5% | trades   31 | invested 98%
+    400000 steps | val Sharpe +0.64 | return +22.8% | trades   27 | invested 99%
+    450000 steps | val Sharpe +0.58 | return +18.1% | trades   35 | invested 97%
+    500000 steps | val Sharpe +0.48 | return +11.0% | trades   39 | invested 98%
+    550000 steps | val Sharpe +0.52 | return +13.7% | trades   35 | invested 97%
+    600000 steps | val Sharpe +0.43 | return +7.9% | trades   31 | invested 97%
+    650000 steps | val Sharpe +0.29 | return -1.3% | trades   43 | invested 97%
+    700000 steps | val Sharpe +0.16 | return -8.6% | trades   49 | invested 97%
+    750000 steps | val Sharpe +0.08 | return -13.1% | trades   55 | invested 96%
+    800000 steps | val Sharpe +0.48 | return +10.9% | trades   45 | invested 97%
+    850000 steps | val Sharpe +0.62 | return +21.3% | trades   41 | invested 98%
+    900000 steps | val Sharpe +0.57 | return +17.5% | trades   49 | invested 97%
+    950000 steps | val Sharpe +0.76 | return +32.0% | trades   53 | invested 98%
+   1000000 steps | val Sharpe +0.66 | return +24.4% | trades   59 | invested 97%
+   done in 3.2 min, best validation Sharpe 0.90
+== ETH seed 2
+     50000 steps | val Sharpe +0.08 | return -11.2% | trades  255 | invested 74%
+    100000 steps | val Sharpe +0.11 | return -9.2% | trades   53 | invested 75%
+    150000 steps | val Sharpe +0.23 | return -4.6% | trades   33 | invested 89%
+    200000 steps | val Sharpe +0.80 | return +34.7% | trades   13 | invested 89%
+    250000 steps | val Sharpe +0.77 | return +32.8% | trades   15 | invested 91%
+    300000 steps | val Sharpe +0.71 | return +27.7% | trades   13 | invested 93%
+    350000 steps | val Sharpe +0.74 | return +30.3% | trades   21 | invested 92%
+    400000 steps | val Sharpe +0.74 | return +29.8% | trades   25 | invested 90%
+    450000 steps | val Sharpe +0.74 | return +30.0% | trades   25 | invested 92%
+    500000 steps | val Sharpe +0.74 | return +30.3% | trades   17 | invested 91%
+    550000 steps | val Sharpe +1.03 | return +56.3% | trades    9 | invested 94%
+    600000 steps | val Sharpe +0.86 | return +39.8% | trades   25 | invested 90%
+    650000 steps | val Sharpe +0.83 | return +38.0% | trades   21 | invested 91%
+    700000 steps | val Sharpe +0.61 | return +20.1% | trades   33 | invested 91%
+    750000 steps | val Sharpe +0.67 | return +24.6% | trades   27 | invested 91%
+    800000 steps | val Sharpe +0.68 | return +25.7% | trades   43 | invested 89%
+    850000 steps | val Sharpe +0.80 | return +33.8% | trades   99 | invested 79%
+    900000 steps | val Sharpe +0.76 | return +31.4% | trades   49 | invested 82%
+    950000 steps | val Sharpe +0.22 | return -4.6% | trades   37 | invested 83%
+   1000000 steps | val Sharpe +0.49 | return +11.8% | trades   33 | invested 85%
+   done in 3.3 min, best validation Sharpe 1.03

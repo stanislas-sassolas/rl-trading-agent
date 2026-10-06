@@ -1,0 +1,229 @@
+{
+ "asset": "ETH",
+ "seed": 1,
+ "steps": 1000000,
+ "minutes": 3.2,
+ "best_val_sharpe": 0.8967776192497618,
+ "history": [
+  {
+   "steps": 50000,
+   "total return": 0.3875395997116624,
+   "annual return": 0.38785091118315496,
+   "annual volatility": 0.5658344705909115,
+   "Sharpe": 0.8624496435342605,
+   "max drawdown": -0.4878603446820752,
+   "trades": 227.0,
+   "time invested": 0.8288934426229508,
+   "fees paid (% of capital)": 0.227
+  },
+  {
+   "steps": 100000,
+   "total return": 0.44720059096206266,
+   "annual return": 0.4475670279578501,
+   "annual volatility": 0.6436135258185909,
+   "Sharpe": 0.8967776192497618,
+   "max drawdown": -0.456299691120555,
+   "trades": 11.0,
+   "time invested": 0.9927140255009107,
+   "fees paid (% of capital)": 0.011
+  },
+  {
+   "steps": 150000,
+   "total return": 0.43314323501138197,
+   "annual return": 0.4334965288226664,
+   "annual volatility": 0.6441253172969192,
+   "Sharpe": 0.8814274578229758,
+   "max drawdown": -0.4768364645703014,
+   "trades": 3.0,
+   "time invested": 0.9961293260473588,
+   "fees paid (% of capital)": 0.003
+  },
+  {
+   "steps": 200000,
+   "total return": 0.2617483404103482,
+   "annual return": 0.2619492840693285,
+   "annual volatility": 0.6372266498546185,
+   "Sharpe": 0.6840309575958933,
+   "max drawdown": -0.5277152595318844,
+   "trades": 13.0,
+   "time invested": 0.9902094717668488,
+   "fees paid (% of capital)": 0.013000000000000001
+  },
+  {
+   "steps": 250000,
+   "total return": 0.24618332409012877,
+   "annual return": 0.24637119231093818,
+   "annual volatility": 0.6378922977013558,
+   "Sharpe": 0.6645183750257541,
+   "max drawdown": -0.5199870722943569,
+   "trades": 19.0,
+   "time invested": 0.9927140255009107,
+   "fees paid (% of capital)": 0.019000000000000003
+  },
+  {
+   "steps": 300000,
+   "total return": 0.2833799895057125,
+   "annual return": 0.28359932313120684,
+   "annual volatility": 0.6376511540305821,
+   "Sharpe": 0.7106820907445806,
+   "max drawdown": -0.49667973817481126,
+   "trades": 23.0,
+   "time invested": 0.9921448087431693,
+   "fees paid (% of capital)": 0.023
+  },
+  {
+   "steps": 350000,
+   "total return": 0.35494485455761526,
+   "annual return": 0.3552267873600874,
+   "annual volatility": 0.631593506915808,
+   "Sharpe": 0.7973756489655254,
+   "max drawdown": -0.5001398769305534,
+   "trades": 31.0,
+   "time invested": 0.9759790528233151,
+   "fees paid (% of capital)": 0.031000000000000003
+  },
+  {
+   "steps": 400000,
+   "total return": 0.22836466200183092,
+   "annual return": 0.22853772531522298,
+   "annual volatility": 0.6367894834267301,
+   "Sharpe": 0.641925756317244,
+   "max drawdown": -0.5337687510028666,
+   "trades": 27.0,
+   "time invested": 0.9891848816029144,
+   "fees paid (% of capital)": 0.027000000000000003
+  },
+  {
+   "steps": 450000,
+   "total return": 0.18126944041935156,
+   "annual return": 0.1814042339114843,
+   "annual volatility": 0.6249285696893115,
+   "Sharpe": 0.5796052408847661,
+   "max drawdown": -0.5271093176259606,
+   "trades": 35.0,
+   "time invested": 0.9680100182149363,
+   "fees paid (% of capital)": 0.035
+  },
+  {
+   "steps": 500000,
+   "total return": 0.10965051036821616,
+   "annual return": 0.10972959106930613,
+   "annual volatility": 0.6261065392061419,
+   "Sharpe": 0.4797484653986892,
+   "max drawdown": -0.5359216839168333,
+   "trades": 39.0,
+   "time invested": 0.975068306010929,
+   "fees paid (% of capital)": 0.03900000000000001
+  },
+  {
+   "steps": 550000,
+   "total return": 0.13664852706116548,
+   "annual return": 0.13674824824342235,
+   "annual volatility": 0.6253848053797566,
+   "Sharpe": 0.5180482953238692,
+   "max drawdown": -0.5472162565244978,
+   "trades": 35.0,
+   "time invested": 0.9740437158469946,
+   "fees paid (% of capital)": 0.035
+  },
+  {
+   "steps": 600000,
+   "total return": 0.07867368862339119,
+   "annual return": 0.07872964237148095,
+   "annual volatility": 0.623051600437535,
+   "Sharpe": 0.4335823504961392,
+   "max drawdown": -0.5602371278689392,
+   "trades": 31.0,
+   "time invested": 0.9748406193078324,
+   "fees paid (% of capital)": 0.031
+  },
+  {
+   "steps": 650000,
+   "total return": -0.013371682541017949,
+   "annual return": -0.013380779677453214,
+   "annual volatility": 0.6210747187894274,
+   "Sharpe": 0.2892834576375391,
+   "max drawdown": -0.5770442882525961,
+   "trades": 43.0,
+   "time invested": 0.9701730418943534,
+   "fees paid (% of capital)": 0.043
+  },
+  {
+   "steps": 700000,
+   "total return": -0.08616865155542142,
+   "annual return": -0.08622505026205485,
+   "annual volatility": 0.6164586344376426,
+   "Sharpe": 0.1624551420320572,
+   "max drawdown": -0.5952064259759,
+   "trades": 49.0,
+   "time invested": 0.9665300546448088,
+   "fees paid (% of capital)": 0.049
+  },
+  {
+   "steps": 750000,
+   "total return": -0.1306585471611389,
+   "annual return": -0.1307419161673491,
+   "annual volatility": 0.6142703516314246,
+   "Sharpe": 0.07955406023856035,
+   "max drawdown": -0.6099537215965762,
+   "trades": 55.0,
+   "time invested": 0.9620901639344263,
+   "fees paid (% of capital)": 0.055
+  },
+  {
+   "steps": 800000,
+   "total return": 0.10926863762293904,
+   "annual return": 0.10934742957909616,
+   "annual volatility": 0.6266414696455671,
+   "Sharpe": 0.47933908528850294,
+   "max drawdown": -0.5405105213719481,
+   "trades": 45.0,
+   "time invested": 0.9713114754098361,
+   "fees paid (% of capital)": 0.045
+  },
+  {
+   "steps": 850000,
+   "total return": 0.21333712778867464,
+   "annual return": 0.21349784287345197,
+   "annual volatility": 0.6307418714028176,
+   "Sharpe": 0.622555064730681,
+   "max drawdown": -0.5355005761196698,
+   "trades": 41.0,
+   "time invested": 0.9805327868852459,
+   "fees paid (% of capital)": 0.040999999999999995
+  },
+  {
+   "steps": 900000,
+   "total return": 0.17532388500965057,
+   "annual return": 0.17545393757115835,
+   "annual volatility": 0.6241085086034246,
+   "Sharpe": 0.5715182885184776,
+   "max drawdown": -0.5580346556248589,
+   "trades": 49.0,
+   "time invested": 0.9704007285974499,
+   "fees paid (% of capital)": 0.049
+  },
+  {
+   "steps": 950000,
+   "total return": 0.3195843155859017,
+   "annual return": 0.3198349851903617,
+   "annual volatility": 0.6255439105748961,
+   "Sharpe": 0.7566803988281254,
+   "max drawdown": -0.49648404187260253,
+   "trades": 53.0,
+   "time invested": 0.97632058287796,
+   "fees paid (% of capital)": 0.053
+  },
+  {
+   "steps": 1000000,
+   "total return": 0.2437543693453601,
+   "annual return": 0.24394020909469205,
+   "annual volatility": 0.6132595071945123,
+   "Sharpe": 0.6625578836753039,
+   "max drawdown": -0.5052282100739435,
+   "trades": 59.0,
+   "time invested": 0.9690346083788707,
+   "fees paid (% of capital)": 0.059
+  }
+ ]
+}
